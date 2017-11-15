@@ -30,3 +30,22 @@ Feel free to add to these sections.
 - *lucky*: While *luck* (n.) is in the Basic English wordlist, the adjective *lucky* is not.
 - *storage*: while *store* (v.) is in the Basic English wordlist, the noun *storage* is not.
 - *student*: while *study* (v.) is in the Basic English wordlist, the noun *student* is not.
+
+### Are these words allowed?
+anyway
+brought
+done
+gave
+gone
+got
+hung
+kept
+lost
+spent
+taken
+taught
+teeth
+thrown
+tore
+went
+won
