@@ -21,21 +21,9 @@ Feel free to add to these sections.
 
 ### Words which are allowed
 
-- *farther*: Comparative of *far*. Comparative forms of adjectives are allowed.
-
-### Words which are not allowed
-
-- *anyway*: *Any way* is allowed as *any* (adj.) and *way* (n.) are in the Basic English wordlist.
-- *deliver*: While *delivery* (n.) is in the Basic English wordlist, the verb *deliver* is not on the list.
-- *distant*: While *distance* (n.) is in the Basic English wordlist, the adjective *distant* is not. The adjective *far* is available.
-- *lucky*: While *luck* (n.) is in the Basic English wordlist, the adjective *lucky* is not.
-- *storage*: while *store* (v.) is in the Basic English wordlist, the noun *storage* is not.
-- *student*: while *study* (v.) is in the Basic English wordlist, the noun *student* is not.
-
-### Are these words allowed?
-
 - *brought*: past participle of bring (v)
 - *done*: past participle of allowed verb.
+- *farther*: Comparative of *far*. Comparative forms of adjectives are allowed.
 - *gave*: past particle of allowed verb.
 - *gone*: past participle of allowed verb.
 - *got*: past participle of allowed verb.
@@ -50,3 +38,12 @@ Feel free to add to these sections.
 - *tore*: past participle of allowed verb. *tear* (v.) is in the VOA Special English wordlist.
 - *went*: past tense of allowed verb.
 - *won*: past participle of allowed verb. *win* (v.) is in the VOA Special English wordlist.
+
+### Words which are not allowed
+
+- *anyway*: *Any way* is allowed as *any* (adj.) and *way* (n.) are in the Basic English wordlist.
+- *deliver*: While *delivery* (n.) is in the Basic English wordlist, the verb *deliver* is not on the list.
+- *distant*: While *distance* (n.) is in the Basic English wordlist, the adjective *distant* is not. The adjective *far* is available.
+- *lucky*: While *luck* (n.) is in the Basic English wordlist, the adjective *lucky* is not.
+- *storage*: while *store* (v.) is in the Basic English wordlist, the noun *storage* is not.
+- *student*: while *study* (v.) is in the Basic English wordlist, the noun *student* is not.
