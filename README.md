@@ -25,6 +25,7 @@ Feel free to add to these sections.
 
 ### Words which are not allowed
 
+- *anyway*: *Any way* is allowed as *any* (adj.) and *way* (n.) are in the Basic English wordlist.
 - *deliver*: While *delivery* (n.) is in the Basic English wordlist, the verb *deliver* is not on the list.
 - *distant*: While *distance* (n.) is in the Basic English wordlist, the adjective *distant* is not. The adjective *far* is available.
 - *lucky*: While *luck* (n.) is in the Basic English wordlist, the adjective *lucky* is not.
@@ -32,20 +33,20 @@ Feel free to add to these sections.
 - *student*: while *study* (v.) is in the Basic English wordlist, the noun *student* is not.
 
 ### Are these words allowed?
-anyway
-brought
-done
-gave
-gone
-got
-hung
-kept
-lost
-spent
-taken
-taught
-teeth
-thrown
-tore
-went
-won
+
+- *brought*: past participle of bring (v)
+- *done*: past participle of allowed verb.
+- *gave*: past particle of allowed verb.
+- *gone*: past participle of allowed verb.
+- *got*: past participle of allowed verb.
+- *hung*: past participle of allowed verb. *hang* (v.) is in the VOA Special English wordlist.
+- *kept*: past participle of allowed verb. *keep* (v.) is in the Basic English wordlist.
+- *lost*: past participle of allowed verb.
+- *spent*: past participle of allowed verb. *spend* (v.) is in the VOA Special English wordlist.
+- *taken*: past participle of allowed verb.
+- *taught*: past participle of allowed verb. *teach* (v.) is in the VOA Special English wordlist.
+- *teeth*: Plural of allowed word. *tooth* is in the Basic English wordlist.
+- *thrown*: past participle of allowed verb. *throw* (v.) is in the VOA Special English wordlist.
+- *tore*: past participle of allowed verb. *tear* (v.) is in the VOA Special English wordlist.
+- *went*: past tense of allowed verb.
+- *won*: past participle of allowed verb. *win* (v.) is in the VOA Special English wordlist.
