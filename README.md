@@ -9,6 +9,12 @@ Summary
 
 For more details, consult the Simple English Wikipedia page ["How to write Simple English pages"](https://simple.wikipedia.org/w/index.php?title=Wikipedia:How_to_write_Simple_English_pages&oldid=5359774).
 
+Tips
+----
+
+1. Keep words from the original if they are valid words. "The house is on the border of Cobb County." is acceptable because "border" is in the VOA Special English wordlist.
+2. Keep important details from the original. Avoid simplifying too much. For example, "I did not move around until I was 18 years old when I went to Syracuse University, so my neighborhood is very clear to me." certainly needs to be broken up into at least two sentences. The sentences should contain the specific details "18 years old" and "Syracuse University".
+
 Useful phrases for common words or ideas
 ----------------------------------------
 
