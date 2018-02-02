@@ -16,7 +16,7 @@ Examples
 Tips
 ----
 1. Check your sentences with the online tool http://159.203.90.186:5000/ . If the tool makes mistakes, report them here.
-2. Keep words from the original if they are valid words. "The house is on the border of Cobb County." is acceptable because "border" is in the VOA Special English wordlist.
+2. Keep words from the original if they are valid words. "The house is on the border of Cobb County." is acceptable because "border" is in the VOA Special English wordlist. One does not need to change it (e.g., by replacing "border" with "edge").
 3. Keep important details from the original. Avoid simplifying too much. For example, "I did not move around until I was 18 years old when I went to Syracuse University, so my neighborhood is very clear to me." certainly needs to be broken up into at least two sentences. The sentences should contain the specific details "18 years old" and "Syracuse University".
 
 Useful phrases for common words or ideas
