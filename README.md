@@ -6,6 +6,7 @@ Summary
 
 1. Use words in the [Basic English wordlist](https://simple.wikipedia.org/w/index.php?title=Wikipedia:Basic_English_combined_wordlist&oldid=5826355) or [VOA Special English wordlist](https://simple.wikipedia.org/w/index.php?title=Wikipedia:VOA_Special_English_Word_Book&oldid=4398542).
 2. Write using simple sentences.
+3. Check your sentences with the online tool http://159.203.90.186:5000/ . If the tool makes mistakes, report them here.
 
 For more details, consult the Simple English Wikipedia page ["How to write Simple English pages"](https://simple.wikipedia.org/w/index.php?title=Wikipedia:How_to_write_Simple_English_pages&oldid=5359774).
 
