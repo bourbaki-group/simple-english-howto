@@ -6,15 +6,14 @@ Summary
 
 1. Use words in the [Basic English wordlist](https://simple.wikipedia.org/w/index.php?title=Wikipedia:Basic_English_combined_wordlist&oldid=5826355) or [VOA Special English wordlist](https://simple.wikipedia.org/w/index.php?title=Wikipedia:VOA_Special_English_Word_Book&oldid=4398542).
 2. Write using simple sentences.
-3. Check your sentences with the online tool http://159.203.90.186:5000/ . If the tool makes mistakes, report them here.
 
 For more details, consult the Simple English Wikipedia page ["How to write Simple English pages"](https://simple.wikipedia.org/w/index.php?title=Wikipedia:How_to_write_Simple_English_pages&oldid=5359774).
 
 Tips
 ----
-
-1. Keep words from the original if they are valid words. "The house is on the border of Cobb County." is acceptable because "border" is in the VOA Special English wordlist.
-2. Keep important details from the original. Avoid simplifying too much. For example, "I did not move around until I was 18 years old when I went to Syracuse University, so my neighborhood is very clear to me." certainly needs to be broken up into at least two sentences. The sentences should contain the specific details "18 years old" and "Syracuse University".
+1. Check your sentences with the online tool http://159.203.90.186:5000/ . If the tool makes mistakes, report them here.
+2. Keep words from the original if they are valid words. "The house is on the border of Cobb County." is acceptable because "border" is in the VOA Special English wordlist.
+3. Keep important details from the original. Avoid simplifying too much. For example, "I did not move around until I was 18 years old when I went to Syracuse University, so my neighborhood is very clear to me." certainly needs to be broken up into at least two sentences. The sentences should contain the specific details "18 years old" and "Syracuse University".
 
 Useful phrases for common words or ideas
 ----------------------------------------
