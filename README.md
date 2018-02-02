@@ -1,5 +1,5 @@
-How to write Simple English
-===========================
+How to write or translate into Simple English
+=============================================
 
 Summary
 -------
