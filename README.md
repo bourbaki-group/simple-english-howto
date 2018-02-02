@@ -9,6 +9,10 @@ Summary
 
 For more details, consult the Simple English Wikipedia page ["How to write Simple English pages"](https://simple.wikipedia.org/w/index.php?title=Wikipedia:How_to_write_Simple_English_pages&oldid=5359774).
 
+Examples
+--------
+- VOA News Article: ["Many Monarch Butterflies Not Flying South for Winter"](https://learningenglish.voanews.com/a/many-monarch-butterflies-not-flying-south-for-winter/4089435.html)
+
 Tips
 ----
 1. Check your sentences with the online tool http://159.203.90.186:5000/ . If the tool makes mistakes, report them here.
