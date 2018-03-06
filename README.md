@@ -1,12 +1,12 @@
-How to write or translate into Simple English
-=============================================
+How to Write in or Translate into Simple English
+================================================
 
 Simple English in three rules
 -----------------------------
 
 1. Use words in the [Basic English wordlist](https://simple.wikipedia.org/w/index.php?title=Wikipedia:Basic_English_combined_wordlist&oldid=5826355)
    or [VOA Special English wordlist](https://simple.wikipedia.org/w/index.php?title=Wikipedia:VOA_Special_English_Word_Book&oldid=4398542).
-2. Write using simple sentences.
+2. Write using simple sentences. Break long sentences into two or more shorter sentences.
 3. Words essential to the document may be preserved. For example, if an article is about the workings of the Saturn V rocket, you would use (and explain)
    the words "Saturn V" and "rocket." You might also use (and explain) terms such as "atmosphere" or "orbit".
 
